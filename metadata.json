@@ -1,0 +1,6 @@
+{
+  "name": "Cuisinemarocbook",
+  "description": "Page Facebook officielle Cuisinemarocbook spécialisée dans la gastronomie marocaine authentique avec recettes traditionnelles, astuces culinaires et vidéos courtes par étape de préparation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
